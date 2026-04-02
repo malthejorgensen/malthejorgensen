@@ -4,7 +4,7 @@ Here's some stuff I made:
 
 **CLI tools**
 
-- [spawmn] Command-line tool for quickly spinning up a VM to work on your code
+- [spawnm] Command-line tool for quickly spinning up a VM to work on your code
 - [repx] Command-line tool for search-and-replace similar to sed or sd (predates sd and is to my taste)
 - [pqon] Command-line tool to manipulate JSON similar to jq (I don't like jq's semantics)
 - [difftree] Command-line tool to diff two directories recursively (`diff -r` is too verbose)
@@ -13,7 +13,7 @@ Here's some stuff I made:
 
 _To use any of the above tools just do `uvx <tool>`, e.g. `uvx difftree`... (requires [uv])_.
 
-[spawmn]: https://github.com/malthejorgensen/spawmn
+[spawnm]: https://github.com/malthejorgensen/spawnm
 [repx]: https://github.com/malthejorgensen/repx
 [pqon]: https://github.com/malthejorgensen/pqon
 [difftree]: https://github.com/malthejorgensen/difftree
