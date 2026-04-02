@@ -8,6 +8,7 @@ Here's some stuff I made:
 - [repx] Command-line tool for search-and-replace similar to sed or sd (predates sd and is to my taste)
 - [pqon] Command-line tool to manipulate JSON similar to jq (I don't like jq's semantics)
 - [difftree] Command-line tool to diff two directories recursively (`diff -r` is too verbose)
+- [dutreemap] Mini-app that shows disk usage in a treemap (started via the CLI)
 - [csvtoexcel] Command-line tool to diff two directories recursively
 - [bitum] Command-line tool to sync files to and from S3-compatible storage
 
@@ -17,6 +18,7 @@ _To use any of the above tools just do `uvx <tool>`, e.g. `uvx difftree`... (req
 [repx]: https://github.com/malthejorgensen/repx
 [pqon]: https://github.com/malthejorgensen/pqon
 [difftree]: https://github.com/malthejorgensen/difftree
+[dutreemap]: https://github.com/malthejorgensen/dutreemap
 [csvtoexcel]: https://github.com/malthejorgensen/csvtoexcel
 [bitum]: https://github.com/malthejorgensen/bitum
 
