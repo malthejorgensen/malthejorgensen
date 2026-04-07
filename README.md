@@ -38,3 +38,9 @@ _To use any of the above tools just do `uvx <tool>`, e.g. `uvx difftree`... (req
 [subl-Supermaven]: https://github.com/malthejorgensen/subl-Supermaven
 [subl-Base64]: https://github.com/malthejorgensen/subl-Base64
 [subl-ConvertCase]: https://github.com/malthejorgensen/subl-ConvertCase
+
+**Misc**
+
+And of course my [dotfiles].
+
+[dotfiles]: https://github.com/malthejorgensen/dotfiles
